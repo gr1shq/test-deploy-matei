@@ -3,7 +3,7 @@ import React from 'react';
 import { ArrowRight, TrendingUp, Zap, Target, MessageCircle, ThumbsUp, Eye, Rocket } from 'lucide-react';
 
 export default function MateiLanding() {
-  const calendlyLink = "https://calendly.com/your-link"; // Replace with your actual Calendly link
+  const calendlyLink = "https://calendly.com/mpiele08/30min"; // Replace with your actual Calendly link
 
   return (
     <div className="min-h-screen bg-black text-white relative overflow-hidden" style={{ fontFamily: 'var(--font-lato)' }}>
