@@ -1,7 +1,4 @@
-import {  
-  Lato, Comfortaa, 
-  Lexend, Plus_Jakarta_Sans, Inter, Karla, Josefin_Sans, Poppins
- } from "next/font/google";
+import {  Lato, Comfortaa, Lexend, Plus_Jakarta_Sans, Inter, Karla, Josefin_Sans, Poppins } from "next/font/google";
 import "./globals.css";
 
 const poppins = Poppins({
